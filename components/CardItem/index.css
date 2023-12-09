@@ -1,0 +1,75 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 20px;
+  padding: 30px;
+  background-color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  margin: 20px;
+  min-width: 300px;
+  max-width: 350px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 20px;
+  padding: 30px;
+  background-color: white;
+  list-style: none;
+  margin: 20px;
+  height: 220px;
+
+  min-width: 300px;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 20px;
+  padding: 30px;
+  background-color: white;
+  list-style: none;
+  margin: 20px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+
+  min-width: 300px;
+  max-width: 350px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 20px;
+  padding: 30px;
+  background-color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  min-width: 300px;
+  max-width: 350px;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.img {
+  align-self: end;
+  width: 70px;
+}
+/* Write CSS code here. */
+
+.card_head {
+  font-family: roboto;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.para_card {
+  font-family: roboto;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
